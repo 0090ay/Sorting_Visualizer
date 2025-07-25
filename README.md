@@ -14,3 +14,14 @@ This project uses color codes and ASCII visuals to show step-by-step sorting of 
 
 1. Open terminal in project folder.
 2. Compile using:
+
+g++ -o sorter alok.cpp
+./sorter
+
+
+
+
+## Author
+
+- [Alok Yadav](https://github.com/0090ay)
+
